@@ -85,7 +85,11 @@ def tiling(x,y,s,l,mode = "straight"):
 width(3)
 hideturtle()
 tracer(False)
+
+#edit here
 tiling(0,0,400, 5, mode = "diagonal")
+
+
 tracer(True)
 
 exitonclick()
